@@ -1,0 +1,10 @@
+/.gradle/
+gradle-wrapper.jar
+
+/run/
+/build/
+/shelf/
+
+/workspace.xml
+
+/.idea/
